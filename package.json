@@ -3,5 +3,8 @@
     "@nestjs/typeorm": "^11.0.0",
     "pg": "^8.16.2",
     "typeorm": "^0.3.25"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
   }
 }
